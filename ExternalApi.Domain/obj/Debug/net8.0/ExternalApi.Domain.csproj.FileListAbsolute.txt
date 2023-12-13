@@ -1,0 +1,11 @@
+D:\wso2\ExternalApi\ExternalApi.Domain\bin\Debug\net8.0\ExternalApi.Domain.deps.json
+D:\wso2\ExternalApi\ExternalApi.Domain\bin\Debug\net8.0\ExternalApi.Domain.dll
+D:\wso2\ExternalApi\ExternalApi.Domain\bin\Debug\net8.0\ExternalApi.Domain.pdb
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\ExternalApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\ExternalApi.Domain.AssemblyInfoInputs.cache
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\ExternalApi.Domain.AssemblyInfo.cs
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\ExternalApi.Domain.csproj.CoreCompileInputs.cache
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\ExternalApi.Domain.dll
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\refint\ExternalApi.Domain.dll
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\ExternalApi.Domain.pdb
+D:\wso2\ExternalApi\ExternalApi.Domain\obj\Debug\net8.0\ref\ExternalApi.Domain.dll

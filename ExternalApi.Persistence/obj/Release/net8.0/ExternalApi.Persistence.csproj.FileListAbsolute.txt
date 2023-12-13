@@ -1,0 +1,15 @@
+D:\wso2\ExternalApi\ExternalApi.Persistence\bin\Release\net8.0\ExternalApi.Persistence.deps.json
+D:\wso2\ExternalApi\ExternalApi.Persistence\bin\Release\net8.0\ExternalApi.Persistence.dll
+D:\wso2\ExternalApi\ExternalApi.Persistence\bin\Release\net8.0\ExternalApi.Persistence.pdb
+D:\wso2\ExternalApi\ExternalApi.Persistence\bin\Release\net8.0\ExternalApi.Domain.dll
+D:\wso2\ExternalApi\ExternalApi.Persistence\bin\Release\net8.0\ExternalApi.Domain.pdb
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.csproj.AssemblyReference.cache
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.AssemblyInfoInputs.cache
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.AssemblyInfo.cs
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.csproj.CoreCompileInputs.cache
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.csproj.CopyComplete
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.dll
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\refint\ExternalApi.Persistence.dll
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ExternalApi.Persistence.pdb
+D:\wso2\ExternalApi\ExternalApi.Persistence\obj\Release\net8.0\ref\ExternalApi.Persistence.dll
