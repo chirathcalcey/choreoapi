@@ -9,9 +9,8 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["ExternalApi/ExternalApi.csproj", "ExternalApi/"]
 COPY ["ExternalApi.Domain/ExternalApi.Domain.csproj", "ExternalApi.Domain/"]
-COPY ["ExternalApi.Persistence/ExternalApi.Persistence.csproj", "ExternalApi.Persistence/"]
+COPY ["ExternalApi/ExternalApi.csproj", "ExternalApi/"]
 RUN dotnet restore "./ExternalApi/./ExternalApi.csproj"
 COPY . .
 WORKDIR "/src/ExternalApi"
@@ -27,6 +26,7 @@ COPY --from=publish /app/publish .
 
 # Create a user with a known UID/GID within range 10000-20000.
 # This is required by Choreo to run the container as a non-root user.
+USER root
 RUN adduser \
     --disabled-password \
     --gecos "" \
