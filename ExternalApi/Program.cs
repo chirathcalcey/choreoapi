@@ -1,4 +1,3 @@
-using ExternalApi.Persistence;
 using Microsoft.EntityFrameworkCore;
 
 namespace ExternalApi

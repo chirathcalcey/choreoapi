@@ -24,7 +24,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ExternalApi.Domain\ExternalApi.Domain.csproj" />
-    <ProjectReference Include="..\ExternalApi.Persistence\ExternalApi.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

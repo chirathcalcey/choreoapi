@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ExternalApi.Domain;
-using ExternalApi.Persistence;
 
 namespace ExternalApi.Controllers
 {

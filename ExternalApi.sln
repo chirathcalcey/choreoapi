@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalApi", "ExternalApi\ExternalApi.csproj", "{FBFC4212-1AF5-463A-A0A7-44777C55BEFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExternalApi", "ExternalApi\ExternalApi.csproj", "{FBFC4212-1AF5-463A-A0A7-44777C55BEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalApi.Domain", "ExternalApi.Domain\ExternalApi.Domain.csproj", "{BB47DD93-79F0-43BB-94F1-F03B69156A8F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalApi.Persistence", "ExternalApi.Persistence\ExternalApi.Persistence.csproj", "{65CA74E1-0F04-47C9-96EF-7C6C3B809763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExternalApi.Domain", "ExternalApi.Domain\ExternalApi.Domain.csproj", "{BB47DD93-79F0-43BB-94F1-F03B69156A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{BB47DD93-79F0-43BB-94F1-F03B69156A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB47DD93-79F0-43BB-94F1-F03B69156A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB47DD93-79F0-43BB-94F1-F03B69156A8F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65CA74E1-0F04-47C9-96EF-7C6C3B809763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65CA74E1-0F04-47C9-96EF-7C6C3B809763}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65CA74E1-0F04-47C9-96EF-7C6C3B809763}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65CA74E1-0F04-47C9-96EF-7C6C3B809763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
